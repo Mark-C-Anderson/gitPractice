@@ -65,11 +65,10 @@ open the `README.md` file and edit it. The '.md' stands for `markdown`, and it's
 way to write nicely-formatted text documents like this one. You'll need to use
 markdown to write README.md files for your own Git Repositories in the future.
 
-Once you've added your name, go ahead and submit a pull request and we'll
-get your revisions (including your name) brought into this repository! Good work!
-
 * Mark C. Anderson (BYU Physics and Astronomy)
 
 
+Once you've added your name, go ahead and submit a pull request (not taught in the manual yet) and we'll
+get your revisions (including your name) brought into this repository! Good work!
 
 **Congratulations! You are officially ready to use Git!**
