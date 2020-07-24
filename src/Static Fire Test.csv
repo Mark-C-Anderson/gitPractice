@@ -1,0 +1,11 @@
+﻿Angle,IDnum,numChannels,IRIG Channel,Sampling Frequency,Latitude,Longitude,Weather Results,,Source Information,,,Analysis Options,,,Array Results,,,Station Results,
+45,100,4,3,102400,123,456,1,,Latitude,123,,Start Pressure (Pa),10,,OASPL,1,,Waveform,1
+50,2,3,1,102400,123,456,1,,Longitude,456,,Duration (s),20,,Derivative Skewness,0,,OASPL,1
+55,100,2,1,102400,123,456,0,,,,,Time Offset (s),5,,Wind,1,,Derivative Skewness,0
+57.5,3,6,5,102400,123,456,0,,,,,,,,,,,Wind,1
+60,2,2,1,102400,123,456,1,,,,,,,,,,,,
+62.5,2,4,3,102400,123,456,1,,,,,,,,,,,,
+65,3,5,4,12800,123,456,0,,,,,,,,,,,,
+67.5,3,3,2,102400,123,456,0,,,,,,,,,,,,
+75,1,3,2,51200,123,456,0,,,,,,,,,,,,
+90,2,2,0,102400,123,456,0,,,,,,,,,,,,
