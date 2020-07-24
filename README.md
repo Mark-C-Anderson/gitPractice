@@ -14,7 +14,8 @@ explanations.
 
 ## The Basics
 
-1. Clone this repository to your computer.
+1. Make a fork of this repository, then clone it to your computer. Do this by 
+pressing the `Fork` button above.
 2. Add a new file to the repository in the `src/` folder.
 3. Stage, commit, and push your changes to this online repository.
 
@@ -63,6 +64,9 @@ from your branch.
 open the `README.md` file and edit it. The '.md' stands for `markdown`, and it's a
 way to write nicely-formatted text documents like this one. You'll need to use
 markdown to write README.md files for your own Git Repositories in the future.
+
+Once you've added your name, go ahead and submit a pull request and we'll
+get your revisions (including your name) brought into this repository! Good work!
 
 * Mark C. Anderson (BYU Physics and Astronomy)
 
